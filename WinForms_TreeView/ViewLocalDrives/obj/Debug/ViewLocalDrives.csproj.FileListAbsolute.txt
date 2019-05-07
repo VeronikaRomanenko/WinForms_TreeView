@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\ViewLocalDrives\bin\Debug\ViewLocalDrives.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\ViewLocalDrives\bin\Debug\ViewLocalDrives.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\ViewLocalDrives\bin\Debug\ViewLocalDrives.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\ViewLocalDrives\obj\Debug\ViewLocalDrives.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\ViewLocalDrives\obj\Debug\ViewLocalDrives.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\ViewLocalDrives\obj\Debug\ViewLocalDrives.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\ViewLocalDrives\obj\Debug\ViewLocalDrives.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\ViewLocalDrives\obj\Debug\ViewLocalDrives.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\ViewLocalDrives\obj\Debug\ViewLocalDrives.pdb

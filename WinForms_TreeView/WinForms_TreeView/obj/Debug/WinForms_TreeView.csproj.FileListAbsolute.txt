@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\WinForms_TreeView\bin\Debug\WinForms_TreeView.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\WinForms_TreeView\bin\Debug\WinForms_TreeView.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\WinForms_TreeView\bin\Debug\WinForms_TreeView.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\WinForms_TreeView\obj\Debug\WinForms_TreeView.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\WinForms_TreeView\obj\Debug\WinForms_TreeView.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\WinForms_TreeView\obj\Debug\WinForms_TreeView.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\WinForms_TreeView\obj\Debug\WinForms_TreeView.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\WinForms_TreeView\obj\Debug\WinForms_TreeView.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_TreeView\WinForms_TreeView\WinForms_TreeView\obj\Debug\WinForms_TreeView.Form1.resources
